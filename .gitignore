@@ -1,0 +1,9 @@
+node_modules/
+test-results/
+playwright-report/
+playwright/.cache/
+.claude/
+.DS_Store
+
+# Personal interview-prep — kept local, not part of the Jones submission
+CODE_WALKTHROUGH.md
